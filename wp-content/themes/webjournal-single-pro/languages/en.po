@@ -1,0 +1,1648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebJournal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-24 03:54+0530\n"
+"PO-Revision-Date: 2013-09-24 03:54+0530\n"
+"Last-Translator: Matt Kaludi <magazine3.mail@gmail.com>\n"
+"Language-Team: Magazine3 Team <magazine3.mail@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_s\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6
+msgid "*404* - Not Found"
+msgstr ""
+
+#: ../404.php:7
+msgid ""
+"Sorry, we can't find the content you're looking for at this URL. Please "
+"navigate from the navigation menu on top or try searching below.."
+msgstr ""
+
+#: ../archive.php:18 ../category.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:21 ../category.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:28 ../category.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:36 ../category.php:36
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:39 ../category.php:39
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:42 ../category.php:42
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:46 ../category.php:46
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:93 ../category.php:93
+msgid "This user hasn't shared any profile information"
+msgstr ""
+
+#: ../archive.php:96 ../category.php:96
+msgid "Home page:"
+msgstr ""
+
+#: ../archive.php:145 ../category.php:147
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:149 ../category.php:151
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../archives.php:12
+msgid "Pages"
+msgstr ""
+
+#: ../archives.php:16
+msgid "By Month"
+msgstr ""
+
+#: ../archives.php:20
+msgid "By Category"
+msgstr ""
+
+#: ../archives.php:25
+msgid "Browse Last 45 Articles:"
+msgstr ""
+
+#: ../attachment.php:17
+msgid "Image navigation"
+msgstr ""
+
+#: ../attachment.php:19
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../attachment.php:20
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../attachment.php:31
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../attachment.php:42 ../content.php:53 ../functions.php:402
+msgid "Edit"
+msgstr ""
+
+#: ../attachment.php:91
+msgid "Pages:"
+msgstr ""
+
+#: ../comments.php:13
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:13 ../content.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:13 ../content.php:49
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "so far. Feel free to join this conversation."
+msgstr ""
+
+#: ../comments.php:34
+msgid "Leave A Response"
+msgstr ""
+
+#: ../comments.php:38
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:38
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:38
+msgid "to post a comment."
+msgstr ""
+
+#: ../comments.php:42
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../comments.php:44 ../comments.php:62
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:48 ../comments.php:66 ../includes/jetpack-carousel.php:113
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:54
+#: ../includes/grunion-contact-form/grunion-contact-form.php:34
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:54 ../comments.php:56
+#: ../includes/grunion-contact-form/grunion-contact-form.php:78
+#: ../includes/grunion-contact-form/grunion-contact-form.php:83
+#: ../includes/grunion-contact-form/grunion-contact-form.php:87
+#: ../includes/grunion-contact-form/grunion-contact-form.php:98
+#: ../includes/grunion-contact-form/grunion-contact-form.php:103
+#: ../includes/grunion-contact-form/grunion-contact-form.php:117
+msgid "(required)"
+msgstr ""
+
+#: ../comments.php:56
+#: ../includes/grunion-contact-form/grunion-contact-form.php:35
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:58 ../includes/jetpack-carousel.php:139
+#: ../includes/grunion-contact-form/grunion-contact-form.php:36
+msgid "Website"
+msgstr ""
+
+#: ../content-page.php:18 ../content-single.php:9
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-single.php:17
+msgid "Like it? Share it!"
+msgstr ""
+
+#: ../content-single.php:88
+msgid "More Related News"
+msgstr ""
+
+#: ../content.php:27 ../content.php:38
+msgid ", "
+msgstr ""
+
+#: ../content.php:31
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:42
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../featured.php:24 ../featuredslider.php:16 ../single.php:19
+msgid "by"
+msgstr ""
+
+#: ../featured.php:27
+msgid "Continue Reading"
+msgstr ""
+
+#: ../functions.php:334
+msgid "Footer Block 1"
+msgstr ""
+
+#: ../functions.php:342
+msgid "Footer Block 2"
+msgstr ""
+
+#: ../functions.php:350
+msgid "Footer Block 3"
+msgstr ""
+
+#: ../functions.php:359
+msgid "Footer Block 4"
+msgstr ""
+
+#: ../functions.php:402 ../includes/core/template-tags.php:208
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:406 ../includes/core/template-tags.php:200
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:37
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../single.php:20
+msgid "  Edit"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:114
+msgid "Loading Comments..."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:115
+msgid ""
+"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times"
+"\">&times;</span>{1}</span>"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:116
+msgid "Please be sure to submit some text with your comment."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:117
+msgid "Please provide an email address to comment."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:118
+msgid "Please provide your name to comment."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:119
+msgid ""
+"Sorry, but there was an error posting your comment. Please try again later."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:120
+msgid "Your comment was approved."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:121
+msgid "Your comment is in moderation."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:122
+msgid "Camera"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:123
+msgid "Aperture"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:124
+msgid "Shutter Speed"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:125
+msgid "Focal Length"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:132
+#, php-format
+msgid "Commenting as %s"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:135
+msgid "Email (Required)"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:137
+msgid "Name (Required)"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:249
+msgid "Missing attachment ID."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:287
+msgid "Nonce verification failed."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:294
+msgid "Missing target blog ID."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:297
+msgid "Missing target post ID."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:300
+msgid "No comment text was submitted."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:312
+msgid "Comments on this post are closed."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:322
+msgid "Sorry, but we could not authenticate your request."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:330
+msgid "Please provide your name."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:333
+msgid "Please provide an email address."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:336
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:363
+msgid "Image Gallery Carousel"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:366
+msgid "Enable carousel"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:370
+msgid "Background color"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:373
+msgid "Metadata"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:430
+msgid ""
+"Show photo metadata (<a href=\"http://en.wikipedia.org/wiki/"
+"Exchangeable_image_file_format\" target=\"_blank\">Exif</a>) in carousel, "
+"when available."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:438
+msgid "Show map of photo location in carousel, when available."
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:446
+msgid "Black"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:446
+msgid "White"
+msgstr ""
+
+#: ../includes/jetpack-carousel.php:454
+msgid "Display images in full-size carousel slideshow."
+msgstr ""
+
+#: ../includes/w.php:3
+msgid "Displays list of category with numbers"
+msgstr ""
+
+#: ../includes/w.php:4
+msgid "M3: Category With Numbers"
+msgstr ""
+
+#: ../includes/w.php:10
+msgid "Browse By Categories"
+msgstr ""
+
+#: ../includes/w.php:244
+msgid "Popular"
+msgstr ""
+
+#: ../includes/w.php:245
+msgid "Comments"
+msgstr ""
+
+#: ../includes/w.php:246
+msgid "Tags"
+msgstr ""
+
+#: ../includes/w.php:349
+msgid "M3: Advertisment Widget"
+msgstr ""
+
+#: ../includes/w.php:362
+msgid "Title: (optional)"
+msgstr ""
+
+#: ../includes/w.php:363
+msgid "Paste  Your Code Below:"
+msgstr ""
+
+#: ../includes/w.php:706
+msgid "Page ID:"
+msgstr ""
+
+#: ../includes/w.php:710
+msgid "Size:"
+msgstr ""
+
+#: ../includes/w.php:816
+msgid "views"
+msgstr ""
+
+#: ../includes/w.php:844
+msgid "Your social stats in sidebar."
+msgstr ""
+
+#: ../includes/w.php:846
+msgid "M3: Social Stats Widget"
+msgstr ""
+
+#: ../includes/w.php:943
+msgid "Enter your Feedburner ID:"
+msgstr ""
+
+#: ../includes/w.php:945
+msgid "Enter your Twitter ID:"
+msgstr ""
+
+#: ../includes/w.php:947
+msgid "Enter your Facebook URL:"
+msgstr ""
+
+#: ../includes/w.php:949
+msgid "Enter your Google+ ID:"
+msgstr ""
+
+#: ../includes/w.php:952
+msgid "Facebook height(px):"
+msgstr ""
+
+#: ../includes/w.php:954
+msgid "Google recommend text:"
+msgstr ""
+
+#: ../includes/w.php:957
+msgid "Subscription box text:"
+msgstr ""
+
+#: ../includes/w.php:960
+msgid "Facebook: Default: #ECEEF5"
+msgstr ""
+
+#: ../includes/w.php:962
+msgid "Google: Default: #fff"
+msgstr ""
+
+#: ../includes/w.php:964
+msgid "Twitter: Default: #DBECF4"
+msgstr ""
+
+#: ../includes/w.php:966
+msgid "Subscription: Default: #fdead2"
+msgstr ""
+
+#: ../includes/w.php:973
+msgid "A social networking icons widget."
+msgstr ""
+
+#: ../includes/w.php:974
+msgid "M3: Social Icon Widget"
+msgstr ""
+
+#: ../includes/w.php:1089
+msgid "Title:"
+msgstr ""
+
+#: ../includes/w.php:1093 ../includes/mm/mm.php:611
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/w.php:1097
+msgid "URL to Twitter profile"
+msgstr ""
+
+#: ../includes/w.php:1101 ../includes/mm/mm.php:670
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/w.php:1105
+msgid "URL to Facebook profile"
+msgstr ""
+
+#: ../includes/w.php:1109 ../includes/mm/mm.php:646
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/w.php:1113
+msgid "URL to LinkedIn Profile"
+msgstr ""
+
+#: ../includes/w.php:1116 ../includes/mm/mm.php:658
+msgid "Google+"
+msgstr ""
+
+#: ../includes/w.php:1120
+msgid "URL to Google+ Profile"
+msgstr ""
+
+#: ../includes/w.php:1123
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/w.php:1127
+msgid "URL to Pinterest"
+msgstr ""
+
+#: ../includes/w.php:1131
+msgid "Forrst"
+msgstr ""
+
+#: ../includes/w.php:1135
+msgid "URL to Forrst Profile"
+msgstr ""
+
+#: ../includes/w.php:1139
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/w.php:1143
+msgid "URL to Flickr Photostream"
+msgstr ""
+
+#: ../includes/w.php:1147
+msgid "DeviantArt"
+msgstr ""
+
+#: ../includes/w.php:1151
+msgid "URL to DeviantArt Profile"
+msgstr ""
+
+#: ../includes/w.php:1155
+msgid "Behance"
+msgstr ""
+
+#: ../includes/w.php:1159
+msgid "URL to Behance"
+msgstr ""
+
+#: ../includes/w.php:1164 ../includes/mm/mm.php:587
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/w.php:1168
+msgid "URL to Vimeo Profile"
+msgstr ""
+
+#: ../includes/w.php:1172
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/w.php:1176
+msgid "URL to YouTube Profile"
+msgstr ""
+
+#: ../includes/w.php:1179 ../includes/mm/mm.php:576
+msgid "RSS"
+msgstr ""
+
+#: ../includes/core/template-tags.php:8
+msgid "0 View"
+msgstr ""
+
+#: ../includes/core/template-tags.php:10
+msgid " "
+msgstr ""
+
+#: ../includes/core/template-tags.php:58
+msgid "Top Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:61
+msgid "Main Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: ../includes/core/template-tags.php:68 ../includes/core/template-tags.php:73
+#: ../includes/core/template-tags.php:78 ../includes/core/template-tags.php:85
+msgid " Go to DASHBOARD > Appearance > Menus to set up the menu."
+msgstr ""
+
+#: ../includes/core/template-tags.php:187
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/core/template-tags.php:187
+#: ../includes/core/template-tags.php:210
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/core/template-tags.php:197
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../includes/core/template-tags.php:235
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../includes/core/template-tags.php:241
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:86
+msgid "From"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:87
+#: ../includes/grunion-contact-form/grunion-contact-form.php:41
+msgid "Message"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:88
+msgid "Date"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:160
+msgid "Restore"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:163
+#: ../includes/grunion-contact-form/admin.php:262
+msgid "Delete this item permanently"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:165
+#: ../includes/grunion-contact-form/admin.php:264
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:196
+msgid "Mark this message as spam"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:205
+#: ../includes/grunion-contact-form/admin.php:492
+msgid "Trash"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:256
+msgid "Mark this message as NOT spam"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:295
+msgid "Y-m-d @ g:i:s A"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:414
+msgid "You are not allowed to manage this item."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:448
+msgid "You are not allowed to move this item out of the Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:451
+msgid "Error in restoring from Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:455
+msgid "You are not allowed to move this item to the Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:458
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:482
+msgid "Messages"
+msgstr ""
+
+#: ../includes/grunion-contact-form/admin.php:505
+msgid "Spam"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:39
+msgid "Subject"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:96
+msgid "Yes"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:138
+#, php-format
+msgid "%s requires a valid email address"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:145
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:268
+#: ../includes/grunion-contact-form/grunion-contact-form.php:316
+msgid "Error!"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:277
+msgid "Submit &#187;"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:321
+msgid "Message Sent"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:427
+msgid "l F j, Y \\a\\t g:i a"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:442
+msgid "Time:"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:443
+msgid "IP Address:"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:444
+msgid "Contact Form URL:"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:464
+#, php-format
+msgid ""
+"\n"
+"Sent by a verified %s user."
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:468
+msgid "Sent by an unverified visitor to your site."
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:628
+msgid "Feedbacks"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:629
+msgid "Feedback"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:630
+msgid "Search Feedback"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:631
+#: ../includes/grunion-contact-form/grunion-contact-form.php:632
+msgid "No feedback found"
+msgstr ""
+
+#: ../includes/grunion-contact-form/grunion-contact-form.php:671
+msgid "Add a custom form"
+msgstr ""
+
+#: ../includes/mm/mm.php:53
+msgid "Global"
+msgstr ""
+
+#: ../includes/mm/mm.php:58
+msgid "Global Options"
+msgstr ""
+
+#: ../includes/mm/mm.php:59
+msgid ""
+"<b>Upload Logo: </b> Upload your own Logo to use as Site Logo. (for bestfit: "
+"209px x 91px)\n"
+"<br /><br />\n"
+"<b>Upload Favicon:</b> Upload a 16px x 16px Png/Gif image that will "
+"represent your website's favicon. \n"
+"<br /><br />\n"
+"<b>Analytics Tracking Code:</b> Insert Analytics Tracking Code\n"
+"<br /><br />\n"
+"<b>Copyright Text:</b> Insert Copyright Text\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:69
+msgid "Upload Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:73
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../includes/mm/mm.php:78
+msgid "Analytics Tracking Code"
+msgstr ""
+
+#: ../includes/mm/mm.php:83
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/mm/mm.php:92
+msgid "Homepage"
+msgstr ""
+
+#: ../includes/mm/mm.php:99 ../includes/mm/mm.php:112
+msgid "Featured Slider"
+msgstr ""
+
+#: ../includes/mm/mm.php:100
+msgid ""
+"<b>Featured Area:</b> Turn ON or OFF Slider<br /><br />\n"
+" <b>Featured Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:106
+msgid " Featured Slider"
+msgstr ""
+
+#: ../includes/mm/mm.php:107 ../includes/mm/mm.php:123
+msgid ""
+"<b>Featured Area:</b> Turn ON or OFF Slider<br /><br /> \n"
+" <b>Featured Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:117
+msgid "Featured Slider Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:122
+msgid "Featured Blocks"
+msgstr ""
+
+#: ../includes/mm/mm.php:128
+msgid "Blocks 1 & 2"
+msgstr ""
+
+#: ../includes/mm/mm.php:135
+msgid "Block One Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:141
+msgid "Block Two Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:150
+msgid "Tabs"
+msgstr ""
+
+#: ../includes/mm/mm.php:156 ../includes/mm/mm.php:162
+msgid "Tab One"
+msgstr ""
+
+#: ../includes/mm/mm.php:157
+msgid ""
+"<b>Tab One:</b> Turn ON or OFF Tab One<br /><br />\n"
+" <b>Tab One Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:168
+msgid "Tab One Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:173
+msgid "Tab One Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:178 ../includes/mm/mm.php:183
+msgid "Tab Two"
+msgstr ""
+
+#: ../includes/mm/mm.php:179
+msgid ""
+"<b>Tab Two:</b> Turn ON or OFF Tab Two<br /><br />\n"
+" <b>Tab Two Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:188
+msgid "Tab Two Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:193
+msgid "Tab Two Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:198 ../includes/mm/mm.php:203
+msgid "Tab Three"
+msgstr ""
+
+#: ../includes/mm/mm.php:199
+msgid ""
+"<b>Tab Three:</b> Turn ON or OFF Tab Three<br /><br />\n"
+" <b>Tab Three Category:</b> This slider show posts from selected category, "
+"So you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:208
+msgid "Tab Three Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:213
+msgid "Tab Three Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:218 ../includes/mm/mm.php:223
+msgid "Tab Four"
+msgstr ""
+
+#: ../includes/mm/mm.php:219
+msgid ""
+"<b>Tab Four:</b> Turn ON or OFF Tab Four<br /><br />\n"
+" <b>Tab Four Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:228
+msgid "Tab Four Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:233
+msgid "Tab Four Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:238 ../includes/mm/mm.php:243
+msgid "Tab Five"
+msgstr ""
+
+#: ../includes/mm/mm.php:239
+msgid ""
+"<b>Tab Five:</b> Turn ON or OFF Tab Five<br /><br />\n"
+" <b>Tab Five Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:248
+msgid "Tab Five Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:253
+msgid "Tab Five Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:258 ../includes/mm/mm.php:263
+msgid "Tab Six"
+msgstr ""
+
+#: ../includes/mm/mm.php:259
+msgid ""
+"<b>Tab Six:</b> Turn ON or OFF Tab Six<br /><br />\n"
+" <b>Tab Six Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:268
+msgid "Tab Six Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:273
+msgid "Tab Six Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:278 ../includes/mm/mm.php:283
+msgid "Tab Seven"
+msgstr ""
+
+#: ../includes/mm/mm.php:279
+msgid ""
+"<b>Tab Seven:</b> Turn ON or OFF Tab Seven<br /><br />\n"
+" <b>Tab Seven Category:</b> This slider show posts from selected category, "
+"So you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:288
+msgid "Tab Seven Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:293
+msgid "Tab Seven Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:298 ../includes/mm/mm.php:303
+msgid "Tab Eight"
+msgstr ""
+
+#: ../includes/mm/mm.php:299
+msgid ""
+"<b>Tab Eight:</b> Turn ON or OFF Tab Eight<br /><br />\n"
+" <b>Tab Eight Category:</b> This slider show posts from selected category, "
+"So you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:308
+msgid "Tab Eight Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:313
+msgid "Tab Eight Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:318 ../includes/mm/mm.php:323
+msgid "Tab Nine"
+msgstr ""
+
+#: ../includes/mm/mm.php:319
+msgid ""
+"<b>Tab Nine:</b> Turn ON or OFF Tab Nine<br /><br />\n"
+" <b>Tab Nine Category:</b> This slider show posts from selected category, So "
+"you can select the category here. <br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:328
+msgid "Tab Nine Category"
+msgstr ""
+
+#: ../includes/mm/mm.php:333
+msgid "Tab Nine Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:341
+msgid "Single"
+msgstr ""
+
+#: ../includes/mm/mm.php:348
+msgid "Single Post Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:350
+msgid ""
+"\n"
+"\n"
+"  <b>Related Posts:</b> Turn ON or OFF Recent Post Below Post.<br /><br />\n"
+"  <b>How many Related Posts?:</b> Type the number of posts that you want in "
+"related post. - DEFAULT: 5<br />\n"
+msgstr ""
+
+#: ../includes/mm/mm.php:358
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/mm/mm.php:363
+msgid "How many Related Posts?"
+msgstr ""
+
+#: ../includes/mm/mm.php:373
+msgid "Fonts"
+msgstr ""
+
+#: ../includes/mm/mm.php:380
+msgid "Font Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:381
+msgid ""
+"<b>Link Font Color: </b>Change Link Hover Font Color (Default Color is "
+"#236CBF)<br /><br />\n"
+"<b>Link Font Hover Color: </b>Change Link Font Color (Default Color is "
+"#236CBF)<br /><br />\n"
+" \n"
+"<b>Font size for Single post content: </b>Select the fontsize for article "
+"content in px - DEFAULT: 15px<br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:388
+msgid "Link Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:393
+msgid "Link Font Hover Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:399
+msgid "Font size for Single post content"
+msgstr ""
+
+#: ../includes/mm/mm.php:410
+msgid "H1 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:411
+msgid ""
+"<b>H1 Font Family: </b>Select your H1 font from Google Font API. See all "
+"Google Fonts<br /><br />\n"
+"<b>H1 Font Size: </b>Select the fontsize for H1 in px (Default is 25)<br /"
+"><br />\n"
+"<b>H1 Font Font Color: </b>Change H1 Font Color (Default Color is #000000)</"
+"a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:417
+msgid "H1 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:422
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:430
+msgid "H1 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:435
+msgid "H2 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:436
+msgid ""
+"<b>H2 Font Family: </b>Select your H2 font from Google Font API. See all "
+"Google Fonts<br /><br />\n"
+"<b>H2 Font Size: </b>Select the fontsize for H2 in px (Default is 24)<br /"
+"><br />\n"
+"<b>H2 Font Font Color: </b>Change H2 Font Color (Default Color is #000000)</"
+"a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:443
+msgid "H2 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:448
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:456
+msgid "H2 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:461
+msgid "H3 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:463
+msgid ""
+"<b>H3 Font Family: </b>Select your H3 font from Google Font API. See all "
+"Google Fonts<br /><br />\n"
+"<b>H3 Font Size: </b>Select the fontsize for H3 in px (Default is 24)<br /"
+"><br />\n"
+"<b>H3 Font Font Color: </b>Change H3 Font Color (Default Color is #000000)</"
+"a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:468
+msgid "H3 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:473
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:481
+msgid "H3 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:486
+msgid "H4 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:487
+msgid ""
+"<b>H4 Font Family: </b>Select your H4 font from Google Font API. See all "
+"Google Fonts <br /><br />\n"
+"<b>H4 Font Size: </b>Select the fontsize for H4 in px (Default is 21)<br /"
+"><br />\n"
+"<b>H4 Font Font Color: </b>Change H4 Font Color (Default Color is #000000)</"
+"a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:493
+msgid "H4 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:497
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:505
+msgid "H4 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:510
+msgid "H5 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:511
+msgid ""
+"<b>H5 Font Family: </b>Select your H5 font from Google Font API. See all "
+"Google Fonts <br /><br />\n"
+"<b>H5 Font Size: </b>Select the fontsize for H5 in px (Default is 16)<br /"
+"><br />\n"
+"<b>H5 Font Font Color: </b>Change H5 Font Color (Default Color is #000000)</"
+"a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:517
+msgid "H5 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:522
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:530
+msgid "H5 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:535
+msgid "H6 Font"
+msgstr ""
+
+#: ../includes/mm/mm.php:536
+msgid ""
+"<b>H6 Font Family: </b>Select your H6 font from Google Font API. See all "
+"Google Fonts<br /><br />\n"
+"<b>H6 Font Size: </b>Select the fontsize for H6 in px  (Default is 14)<br /"
+"><br />\n"
+"<b>H6 Font Font Color: </b>Change H6 Font Color (Default Color is #000000)</"
+"a><br /><br />"
+msgstr ""
+
+#: ../includes/mm/mm.php:542
+msgid "H6 Font Family"
+msgstr ""
+
+#: ../includes/mm/mm.php:547
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../includes/mm/mm.php:555
+msgid "H6 Font Font Color"
+msgstr ""
+
+#: ../includes/mm/mm.php:564
+msgid "Social"
+msgstr ""
+
+#: ../includes/mm/mm.php:570
+msgid "Social Profile Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:571
+msgid ""
+"Enable & Disable to show or hide the Specific button. Another input area is "
+"for adding your profile url. These are very easy options so i hope you will "
+"understand them."
+msgstr ""
+
+#: ../includes/mm/mm.php:577
+msgid "Turn ON or OFF RSS Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:581
+msgid "RSS Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:588
+msgid "Turn ON or OFF Vimeo Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:592
+msgid "Vimeo Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:599
+msgid "Reddit"
+msgstr ""
+
+#: ../includes/mm/mm.php:600
+msgid "Turn ON or OFF Reddit Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:605
+msgid "Reddit Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:612
+msgid "Turn ON or OFF Twitter Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:617
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:623
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/mm/mm.php:624
+msgid "Turn ON or OFF Youtube Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:628
+msgid "Youtube Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:634
+msgid "Pinterest "
+msgstr ""
+
+#: ../includes/mm/mm.php:635
+msgid "Turn ON or OFF Pinterest Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:639
+msgid "Pinterest Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:647
+msgid "Turn ON or OFF LinkedIn Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:651
+msgid "LinkedIn Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:659
+msgid "Turn ON or OFF Google+ Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:663
+msgid "Google+ Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:671
+msgid "Turn ON or OFF Facebook Logo"
+msgstr ""
+
+#: ../includes/mm/mm.php:677
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: ../includes/mm/mm.php:686
+msgid "Ads"
+msgstr ""
+
+#: ../includes/mm/mm.php:693
+msgid "Blocks info"
+msgstr ""
+
+#: ../includes/mm/mm.php:696
+msgid "Advertisement Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:697
+msgid ""
+"<b>Advertisement Slot:</b> Turn ON or OFF Advertisement Slot<br /><br />\n"
+"    \t\t<b>Text Area below it:</b> is where you paste the code.   \t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:701
+msgid "Advertisement Slot #1 "
+msgstr ""
+
+#: ../includes/mm/mm.php:707
+msgid "728x90 (On very top of the website)"
+msgstr ""
+
+#: ../includes/mm/mm.php:714
+msgid "Advertisement Slot #2 "
+msgstr ""
+
+#: ../includes/mm/mm.php:715
+msgid "Turn ON or OFF Advertisement Slot 2"
+msgstr ""
+
+#: ../includes/mm/mm.php:721
+msgid "728x90 (Below Navigation - Sitewide)"
+msgstr ""
+
+#: ../includes/mm/mm.php:728
+msgid "Advertisement Slot #3"
+msgstr ""
+
+#: ../includes/mm/mm.php:729
+msgid "Turn ON or OFF Advertisement Slot 3"
+msgstr ""
+
+#: ../includes/mm/mm.php:736
+msgid "728x90 (Below the Featured Section - Homepage)"
+msgstr ""
+
+#: ../includes/mm/mm.php:744
+msgid "Advertisement Slot #4 "
+msgstr ""
+
+#: ../includes/mm/mm.php:745
+msgid "Turn ON or OFF Advertisement Slot 4"
+msgstr ""
+
+#: ../includes/mm/mm.php:751
+msgid "Top of Single Posts"
+msgstr ""
+
+#: ../includes/mm/mm.php:758
+msgid "Advertisement Slot #5 "
+msgstr ""
+
+#: ../includes/mm/mm.php:759
+msgid "Turn ON or OFF Advertisement Slot 5"
+msgstr ""
+
+#: ../includes/mm/mm.php:765
+msgid "Bottom of Single Posts"
+msgstr ""
+
+#: ../includes/mm/mm.php:772
+msgid "Advertisement Slot #6 "
+msgstr ""
+
+#: ../includes/mm/mm.php:773
+msgid "Turn ON or OFF Advertisement Slot 6"
+msgstr ""
+
+#: ../includes/mm/mm.php:777 ../includes/mm/mm.php:790
+#: ../includes/mm/mm.php:804 ../includes/mm/mm.php:818
+#: ../includes/mm/mm.php:831 ../includes/mm/mm.php:844
+msgid "Above the footer"
+msgstr ""
+
+#: ../includes/mm/mm.php:785
+msgid "Advertisement Slot #7 "
+msgstr ""
+
+#: ../includes/mm/mm.php:786
+msgid "Turn ON or OFF Advertisement Slot 7"
+msgstr ""
+
+#: ../includes/mm/mm.php:799
+msgid "Advertisement Slot #8 "
+msgstr ""
+
+#: ../includes/mm/mm.php:800
+msgid "Turn ON or OFF Advertisement Slot 8"
+msgstr ""
+
+#: ../includes/mm/mm.php:813
+msgid "Advertisement Slot #9 "
+msgstr ""
+
+#: ../includes/mm/mm.php:814
+msgid "Turn ON or OFF Advertisement Slot 9"
+msgstr ""
+
+#: ../includes/mm/mm.php:826
+msgid "Advertisement Slot #10 "
+msgstr ""
+
+#: ../includes/mm/mm.php:827
+msgid "Turn ON or OFF Advertisement Slot 10"
+msgstr ""
+
+#: ../includes/mm/mm.php:839
+msgid "Advertisement Slot #11 "
+msgstr ""
+
+#: ../includes/mm/mm.php:840
+msgid "Turn ON or OFF Advertisement Slot 11"
+msgstr ""
+
+#: ../includes/mm/mm.php:854
+msgid "SEO"
+msgstr ""
+
+#: ../includes/mm/mm.php:863 ../includes/mm/mm.php:867
+msgid "Global SEO Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:868
+msgid ""
+"\n"
+"\t\t      \t\t\t<b>Magazine3 SEO</b>: If you wish to use 3rd party SEO "
+"plugins, then Disable the \"Magazine3 SEO\". <br /><br />\n"
+"\t\t      \t\t\t<b>Title</b>: As the name implies, this will be the title of "
+"your homepage. This is independent of any other option. If not set, the "
+"default blog title will get used. <br /><br />\n"
+"\t\t      \t\t\t<b>Meta Description</b>: The META description for your "
+"homepage. Independent of any other options, the default is no META "
+"description at all if this is not set. <br /><br />\n"
+"\t\t      \t\t\t<b>Keywords</b>: A comma separated list of your most "
+"important keywords for your site that will be written as META keywords on "
+"your homepage. Dont stuff everything in here. <br /><br />\n"
+"\t\t      \t\t\t<b>Seperator</b>: This is the seprator between title & "
+"description.<br /><br />\n"
+"\t\t      \t\t\t<b>Canonical</b>: This option will automatically generate "
+"Canonical URLS for your entire WordPress installation. This will help to "
+"prevent duplicate content penalties by Google. <br />\n"
+"\t\t      \t\t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:882 ../includes/mm/mm.php:886
+msgid "Magazine3 SEO"
+msgstr ""
+
+#: ../includes/mm/mm.php:883 ../includes/mm/mm.php:887
+msgid "To use 3rd party seo plugins, Disable this option "
+msgstr ""
+
+#: ../includes/mm/mm.php:893
+msgid "Title"
+msgstr ""
+
+#: ../includes/mm/mm.php:899
+msgid "Meta Description"
+msgstr ""
+
+#: ../includes/mm/mm.php:900
+msgid "Description for SEO"
+msgstr ""
+
+#: ../includes/mm/mm.php:907
+msgid "Keywords"
+msgstr ""
+
+#: ../includes/mm/mm.php:913
+msgid "Seperator"
+msgstr ""
+
+#: ../includes/mm/mm.php:918
+msgid " Canonical"
+msgstr ""
+
+#: ../includes/mm/mm.php:919
+msgid "Turn ON or OFF Canonical Settings"
+msgstr ""
+
+#: ../includes/mm/mm.php:924
+msgid "Homepage Setttings"
+msgstr ""
+
+#: ../includes/mm/mm.php:926
+msgid ""
+"<b>Home Title Format</b>: Define the order the title, description and meta "
+"data appears in. \n"
+"\t\t      \t\t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:930
+msgid "Home Title Format"
+msgstr ""
+
+#: ../includes/mm/mm.php:938
+msgid "Single Setttings"
+msgstr ""
+
+#: ../includes/mm/mm.php:940
+msgid ""
+"<b>Single Title Format</b>: Define the order the title, description and meta "
+"data appears in. \t\t\t"
+msgstr ""
+
+#: ../includes/mm/mm.php:944
+msgid "Single Title Format"
+msgstr ""
+
+#: ../includes/mm/mm.php:950
+msgid "Index Setttings"
+msgstr ""
+
+#: ../includes/mm/mm.php:952
+msgid ""
+"Select which archives to index on your site. Aids in removing duplicate "
+"content from being indexed, preventing content dilution."
+msgstr ""
+
+#: ../includes/mm/mm.php:955
+msgid "Category Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:960
+msgid "Tag Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:965
+msgid "Author Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:970
+msgid "Date Archives"
+msgstr ""
+
+#: ../includes/mm/mm.php:975
+msgid "Search Results"
+msgstr ""
